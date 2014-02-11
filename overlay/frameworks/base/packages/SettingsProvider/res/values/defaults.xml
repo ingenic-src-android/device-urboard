@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Changes to Defaults in:
+         frameworks/base/packages/SettingsProvider/res/values
+-->
+
+<resources>
+    <!-- Default for Settings.Secure.USER_SETUP_COMPLETE -->
+    <bool name="def_user_setup_complete">true</bool>
+</resources>
